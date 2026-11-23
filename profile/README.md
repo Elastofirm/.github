@@ -3,7 +3,7 @@
   <a href="https://elastofirm.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./img/elastofirm-logo-1.png">
-      <img src="./img/elastofirm-logo-1.png" alt="Elastofirm" width="25%">
+      <img src="./img/elastofirm-logo-1.png" alt="Elastofirm" width="40%">
     </picture>
   </a>
 </p>
