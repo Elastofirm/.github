@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://elastofirm.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./img/elastofirm-logo-light.svg">
-      <img src="./img/elastofirm-logo-dark.svg" alt="Elastofirm" width="25%">
+      <source media="(prefers-color-scheme: dark)" srcset="./img/elastofirm-logo-1.png">
+      <img src="./img/elastofirm-logo-1.png" alt="Elastofirm" width="25%">
     </picture>
   </a>
 </p>
